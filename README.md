@@ -1,0 +1,2 @@
+# ScrapyRedis
+ScrapyRedis Test
